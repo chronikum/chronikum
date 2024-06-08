@@ -16,9 +16,3 @@ I am passionate about supporting open, non-profit projects and always happy to l
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chronikum&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-
-
-
-```math
-\ce{$\unicode[goombafont; color:black; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.2; background: url('https://raw.githubusercontent.com/mxbi/mxbi/main/pattern.png');]{x0000}$}
