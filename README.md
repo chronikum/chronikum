@@ -13,6 +13,4 @@ I am passionate about supporting open, non-profit projects and always happy to l
 
 ![image](https://www.codewars.com/users/chronikum/badges/large?theme=light)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chronikum&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chronikum&hide=java,ruby,scss,haml,makefile,html)
