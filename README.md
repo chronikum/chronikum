@@ -1,7 +1,9 @@
 ## Hi, I am Jonathan. 🖖
 
 My journey in the tech world began as an iOS developer, where I have published over 20 apps since. 
-Currently, I am working as a full-stack developer at taxpeer, a company in Bonn which is revolutionizing tax education.
+Currently, I am working as a full-stack developer at Taxpeer GmbH, a company in Bonn which is revolutionizing tax education.
+
+Before that I worked three years as Head of IT at SIUT where I planned & implemented the illuminated platform edge.
 
 Outside of my day job, I engage in freelance work with a variety of companies, enriching my experience and broadening my expertise. You can learn more about my freelance endeavors at [nosc.io.](https://nosc.io).
 
